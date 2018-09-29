@@ -1,4 +1,4 @@
-# Aplicação Web + Node Express + Restfull
+# Aplicação Web + Node Express + Restful
 
 Projeto de uma aplicação para cadastro de usuários utilizando um webservice restfull implementado em nodejs. 
 
