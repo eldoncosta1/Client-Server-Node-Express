@@ -1,0 +1,16 @@
+npm init >> cria o package json
+npm install
+	express --save >> realiza a instala��o e insere no package json a depend�ncia
+	nodemon -g >> 
+	consign --save >> inclus�o de rotas
+ 	body-parser --save >> captura corpo das requisicoes http
+	nedb --save >> banco de dados javascript
+	express-validator --save >> valida��o de campos
+	express-generator -g >>	
+	restify-clients -- save
+
+express -ejs "nome da aplicacao"
+
+##
+
+nodemon "nomeDoArquivo" >> inicia o nodemon
